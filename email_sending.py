@@ -2,7 +2,7 @@ import smtplib
 from email.message import EmailMessage
 import filetype
 
-password = "vlhyurbdlplienak"
+password = "x"
 sender = "pythonlearning475@gmail.com"
 receiver = "pythonlearning475@gmail.com"
 
