@@ -3,8 +3,8 @@ from email.message import EmailMessage
 import filetype
 
 password = "x"
-sender = "pythonlearning475@gmail.com"
-receiver = "pythonlearning475@gmail.com"
+sender = "x@gmail.com"
+receiver = "x@gmail.com"
 
 def send_email(image_path):
     email_message = EmailMessage()
